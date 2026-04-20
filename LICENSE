@@ -1,0 +1,69 @@
+GlucoRoo Proprietary Software License
+Copyright (c) 2026 Brenchris, Inc. All rights reserved.
+
+1. Definitions.
+   "Software" means the GlucoRoo application source code, object code,
+   documentation, assets, and any associated materials contained in this
+   repository. "Licensor" means Brenchris, Inc., a corporation, and its
+   successors and assigns.
+
+2. Ownership.
+   The Software is the exclusive property of Licensor and is protected by
+   copyright, trade secret, and other intellectual property laws. Licensor
+   retains all right, title, and interest in and to the Software, including
+   all intellectual property rights therein. No rights are granted to any
+   party except as expressly set forth in a separate written agreement
+   signed by Licensor.
+
+3. No License Granted.
+   No license, express or implied, is granted by this file or by the
+   availability of the Software in any repository or distribution channel.
+   Any use, reproduction, modification, distribution, public display,
+   public performance, sublicensing, reverse engineering, decompilation,
+   or creation of derivative works based on the Software is strictly
+   prohibited without the prior written permission of Licensor.
+
+4. Executable Distribution.
+   Licensor may, at its sole discretion, make compiled executable versions
+   of the Software available to end users at no charge or for a fee.
+   Availability of an executable at no charge at any point in time does
+   not constitute a grant of rights to the source code, nor a waiver of
+   Licensor's right to charge fees, impose conditions, or discontinue
+   distribution at any time, with or without notice.
+
+5. Reservation of Rights.
+   Licensor expressly reserves all rights not granted herein, including
+   without limitation the right to: (a) modify, commercialize, or
+   discontinue the Software; (b) change pricing or licensing terms at any
+   time; (c) assign, sell, license, or otherwise transfer the Software
+   and all associated intellectual property rights, in whole or in part,
+   to any third party; and (d) enforce its rights through any available
+   legal remedy.
+
+6. Confidentiality.
+   The Software constitutes confidential information and trade secrets of
+   Licensor. Any party who obtains access to the Software agrees to
+   maintain its confidentiality and not to disclose it to any third party.
+
+7. No Warranty.
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+   GlucoRoo is not a medical device and is not intended for use in the
+   diagnosis, treatment, cure, or prevention of any disease or medical
+   condition. Users are responsible for their own medical decisions and
+   should consult qualified healthcare professionals.
+
+8. Limitation of Liability.
+   IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,
+   ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+   OTHER DEALINGS IN THE SOFTWARE.
+
+9. Governing Law.
+   This license shall be governed by and construed in accordance with the
+   laws of the State of New York, without regard to its
+   conflict of laws principles.
+
+10. Contact.
+    For licensing inquiries, please contact: support@glucoroo.com
